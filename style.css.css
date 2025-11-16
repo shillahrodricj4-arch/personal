@@ -1,0 +1,29 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(93, 56, 180);
+    color: blueviolet;
+    margin: 2inch;
+    padding: 0;
+}
+header{
+    background-color: aqua;
+    color: white;
+    padding:15px;
+    text-align: center;}
+    nav ul{
+        display: inline-block;
+        margin: 15px;
+    }
+    nav li{
+         display: inline-block;
+        margin: 15px;
+    }
+    main{
+        width:8o%;
+         
+    }
+    image{
+        width: 100px;
+        height: 15inch;
+
+    }
